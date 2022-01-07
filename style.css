@@ -1,0 +1,36 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    align-content: center;
+}
+
+ul, ol{
+    display: inline-block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+li{
+    text-align: left;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.caption{
+    font-size: 10px;
+    color: dimgrey;
+    width: 300px;
+    margin: 0 auto;
+}
+
